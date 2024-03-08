@@ -11,7 +11,7 @@ int main()
     scanf("%f", &B);
 
     printf("The operation between these Numbers : ");
-    scanf(" %c", &Op);
+    scanf("%c", &Op);
 
     if (Op == '+')
     {
