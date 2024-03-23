@@ -4,10 +4,10 @@ int main()
 {
     float A, B;
     char Op;
-    printf("The first Number : ");
+    printf("The First Number : ");
     scanf("%f", &A);
 
-    printf("The second Number : ");
+    printf("The Second Number : ");
     scanf("%f", &B);
 
     printf("The operation between these Numbers : ");
